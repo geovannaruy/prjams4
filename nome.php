@@ -1,5 +1,4 @@
 <?php
-$nome = $_POST['txtNome'];
-echo "nome:<br>" . $nome . "</br>";
-
+  $Nome = $_POST['txtNome'];
+  echo "Nome:<br>" . $Nome . "</br>";
 ?>
